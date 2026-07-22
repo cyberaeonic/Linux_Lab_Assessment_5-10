@@ -1,0 +1,3 @@
+Parent Process (PID=25542)
+Terminating child process...
+Zombie process prevented.

@@ -1,0 +1,18 @@
+file2.txt is a duplicate of file1.txt
+
+===== Summary =====
+Files Processed : 3
+Duplicate Files : 1
+Files Backed Up : 2
+file2.txt is a duplicate of file1.txt
+
+===== Summary =====
+Files Processed : 3
+Duplicate Files : 1
+Files Backed Up : 2
+file2.txt is a duplicate of file1.txt
+
+===== Summary =====
+Files Processed : 3
+Duplicate Files : 1
+Files Backed Up : 2
